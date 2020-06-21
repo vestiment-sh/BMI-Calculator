@@ -1,10 +1,11 @@
+// BMI Calculator
 
 #include <iostream>
 using namespace std;
 
 int main() {
 
-        string name;
+        string name;    // Declaration of Variables
         double x;
         int y, z;
         cout << "Enter your Hero's name: ";
