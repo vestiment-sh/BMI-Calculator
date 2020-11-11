@@ -1,2 +1,2 @@
-# CS-111-BMI-Calculator
-A simple C++ program calculating someone's Body Mass Index.
+# BMI Calculator
+For an introductory C++ course, I developed a program that asked a user for details that'd calculate their BMI and predicted physique.
